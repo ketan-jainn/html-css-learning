@@ -1,10 +1,5 @@
-
 # What Did I Learn
 
-- Create HTML Buttons
+- pseudo-classes
 
-- Styling Buttons with \<style> tag
-
-- Got some idea of classes
-
-[Link](https://www.youtube.com/watch?v=vbQ2bYHxxEA&ab_channel=StudyZone) to Tutorial Video
+[Link](https://youtu.be/G3e-cpL7ofc?t=2679) to Tutorial Video
