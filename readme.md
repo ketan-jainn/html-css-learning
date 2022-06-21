@@ -1,5 +1,5 @@
 # What Did I Learn
 
-- pseudo-classes
+- Text Styles
 
-[Link](https://youtu.be/G3e-cpL7ofc?t=2679) to Tutorial Video
+[Link](https://youtu.be/G3e-cpL7ofc?t=4650) to Tutorial Video
