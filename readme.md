@@ -1,5 +1,7 @@
 # What Did I Learn
 
-- pseudo-classes
+- chrome dev tools
+- difference between padding and margin
+- vertical align
 
-[Link](https://youtu.be/G3e-cpL7ofc?t=2679) to Tutorial Video
+[Link](https://youtu.be/G3e-cpL7ofc?t=3790) to Tutorial Video
